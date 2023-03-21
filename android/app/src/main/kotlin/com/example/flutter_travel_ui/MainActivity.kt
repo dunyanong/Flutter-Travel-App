@@ -1,4 +1,4 @@
-package com.example.flutter_travel_ui_starter
+package com.example.flutter_travel_ui
 
 import android.os.Bundle
 
